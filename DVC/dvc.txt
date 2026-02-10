@@ -1,0 +1,6 @@
+#why dvc?
+"""Maintaining the different versions of the project,
+ like what change,when change ,who changed,Why did results shift?"""
+#what dvc?
+DVC lets you version data and ML models the same way 
+Git versions code — without breaking Git
